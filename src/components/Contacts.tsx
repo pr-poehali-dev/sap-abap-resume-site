@@ -23,12 +23,6 @@ const Contacts = () => {
       value: "Москва, Россия",
       link: null,
     },
-    {
-      icon: "Linkedin",
-      label: "LinkedIn",
-      value: "linkedin.com/in/ivanpetrov",
-      link: "https://linkedin.com/in/ivanpetrov",
-    },
   ];
 
   return (
